@@ -12,14 +12,24 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      name: 'XEXCHANGE',
+      repo: 'https://github.com/whoiszxl/BohemianRhapsody',
       //打开封面配置，配置封面文件
       coverpage: true,
       coverpage: '_coverpage.md',
-
-      name: 'XEXCHANGE',
-      repo: ''
+      loadNavbar: true,
+      loadSidebar: true,
+      auto2top: true,
+      maxLevel: 2,
+      subMaxLevel: 3,
+      search: {
+        placeholder: '搜索',
+        noData: '找不到结果!',
+        depth: 3
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.js"></script>
 </body>
 </html>
