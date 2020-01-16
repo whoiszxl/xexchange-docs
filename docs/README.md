@@ -42,3 +42,7 @@ xexchange-flutter             -- xexchange Flutter App
 xexchange-front-admin         -- Vue Admin管理后台
 xexchange-front-web           -- Vue 用户端
 ```
+
+
+##### 公众号
+![公众号](https://oss.whoiszxl.com/qrcode_for_whoisc137_258.jpg)
