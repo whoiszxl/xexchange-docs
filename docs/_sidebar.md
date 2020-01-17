@@ -12,7 +12,7 @@
   * [1.交易系统概览](markdown/exchange_framework_business/1.交易系统概览)
   * [2.交易系统之技术选型](markdown/exchange_framework_business/2.交易系统之技术选型)
   * [3.交易系统之业务流程](markdown/exchange_framework_business/3.交易系统之业务流程)
-  * [4.交易系统之钱包对接](markdown/exchange_framework_business/4.交易系统之钱包对接)
+  * [4.交易系统之钱包部署与对接原理](markdown/exchange_framework_business/4.交易系统之钱包部署与对接原理)
   * [5.通过SpringCloud搭建项目骨架](markdown/exchange_framework_business/5.通过SpringCloud搭建项目骨架)
   * [6.通过JWT实现用户单点登录](markdown/exchange_framework_business/6.通过JWT实现用户单点登录)
   * [7.待续...](7.待续...)
